@@ -112,7 +112,7 @@
       <div class="card m-3" style="width: 18rem">
         <img src="/assets/volly.jpg" class="card-img-top" alt="..." />
         <div class="card-body">
-          <p class="text-center">VOLLY BALL</p>
+          <p class="text-center">VOLLEY BALL</p>
         </div>
       </div>
     </div>
