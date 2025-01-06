@@ -4,7 +4,7 @@
       <div class="col-md-8">
         <div class="card">
           <div class="card-header bg-primary text-white text-center">
-            <h4>Biodata saya</h4>
+            <h4>Biodata Diri</h4>
           </div>
           <div class="card-body">
             <div class="row">
@@ -16,8 +16,13 @@
                 <h5><strong>Alamat:</strong> Jl. Gobang Kp. Cintamanah</h5>
                 <h5><strong>Email:</strong> ramahungkul36@gmail.com</h5>
                 <h5><strong>No. Telepon:</strong> 085875941538</h5>
-                <h5><strong>Hobi:</strong> memasak</h5>
-                <h5><strong>Pendidikan:</strong> SMK NEGERI 4 TASIKMALAYA</h5>
+                <h5><strong>pengalaman:</strong></h5>
+                <h5>- Praktek Kerja Lapangan</h5>
+                <h5>- Teaching Factory</h5>
+                <h5><strong>Pendidikan:</strong></h5>
+                <h5>- SDN SINGKUP</h5>
+                <h5>- MTS. JIDRIS ASSALAM</h5>
+                <h5>- SMKN4TASIKMALAYA</h5>
               </div>
             </div>
           </div>
